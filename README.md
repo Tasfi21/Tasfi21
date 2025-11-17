@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Shamia Akhter Tasfi</h1>
-<h3 align="center">Undergraduate Developer , Clude & Cybersecurity Enthusiast from Bangladesh 🇧🇩</h3>
+<h3 align="center">Undergraduate Developer , Cloud & Cybersecurity Enthusiast from Bangladesh 🇧🇩</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=007ACC&center=true&vCenter=true&lines=Undergraduate+Developer;Cybersecurity+Learner;Problem+Solver;Tech+Explorer+🔐;Cloud+Enthusiast" alt="Typing Animation"/>
