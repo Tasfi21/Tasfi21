@@ -18,8 +18,7 @@
 - 👯 Looking to collaborate on **development & cybersecurity projects**  
 - 🤝 Seeking guidance with **CTF challenges & secure coding**  
 - 📫 Reach me at **samiaakhtertasfi@gmail.com**  
-- ⚡ Fun fact: **I love solving problems & exploring cyber mysteries 🔐**
-
+- ⚡ Fun fact: **I love solving problems & exploring Cloud computing, Cyber mysteries🔐 **
 ---
 
 ## 🌐 Connect With Me
