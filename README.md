@@ -4,10 +4,10 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Shamia Akhter Tasfi</h1>
-<h3 align="center">Undergraduate Developer & Cybersecurity Enthusiast from Bangladesh 🇧🇩</h3>
+<h3 align="center">Undergraduate Developer , Clude & Cybersecurity Enthusiast from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=007ACC&center=true&vCenter=true&lines=Undergraduate+Developer;Cybersecurity+Learner;Problem+Solver;Tech+Explorer+🔐" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=007ACC&center=true&vCenter=true&lines=Undergraduate+Developer;Cybersecurity+Learner;Problem+Solver;Tech+Explorer+🔐;Cloud+Enthusiast" alt="Typing Animation"/>
 </p>
 
 ---
@@ -47,7 +47,7 @@
 ## 🔐 Cybersecurity Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-informational?style=for-the-badge&logo=hackthebox&logoColor=white&color=2a9d8f" alt="CEH Badge"/>
+  <img src="https://img.shields.io/badge/Cloud computing-informational?style=for-the-badge&logo=hackthebox&logoColor=white&color=2a9d8f" alt="CEH Badge"/>
   <img src="https://img.shields.io/badge/Cyber_Security-Fundamentals-blue?style=for-the-badge&logo=cybersecurity" alt="Cybersecurity Fundamentals"/>
   <img src="https://img.shields.io/badge/CTF-Player-yellow?style=for-the-badge&logo=ctf" alt="CTF Player"/>
   <img src="https://img.shields.io/badge/Pentesting-Beginner-orange?style=for-the-badge&logo=penetration-testing" alt="Pentesting"/>
@@ -58,8 +58,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=tasfi21&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasfi21&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+  
 
 ---
 
