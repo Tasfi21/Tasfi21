@@ -63,7 +63,7 @@
 
 ## ✨ Fun Facts & Highlights
 
-- Finished **DSA 1 & 2, Computer Architecture, and all courses until 3rd year** ✅  
+- Finished **DSA 1 & 2, Computer Architecture, Web programming, DBMS and all courses until 3rd year** ✅  
 - Passionate about **Cybersecurity and CTF challenges** 🔐  
 - Enjoy **problem-solving, learning new tech, and sharing knowledge** 💡  
 
@@ -72,7 +72,7 @@
 ## 📫 How to Reach Me
 
 Email: samiaakhtertasfi@gmail.com  
-LinkedIn: [Shamia Akhter Tasfi(https://www.linkedin.com/in/shamia-akhter-tasfi-943130283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+LinkedIn: [Shamia Akhter Tasfi](https://www.linkedin.com/in/shamia-akhter-tasfi-943130283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 GitHub: [tasfi21](https://github.com/tasfi21)
 
 ---
