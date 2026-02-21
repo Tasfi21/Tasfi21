@@ -72,7 +72,7 @@
 ## 📫 How to Reach Me
 
 Email: samiaakhtertasfi@gmail.com  
-LinkedIn: [Shamia Akhter Tasfi](https://linkedin.com/in/shamia-akhter-tasfi)  
+LinkedIn: [Shamia Akhter Tasfi(https://www.linkedin.com/in/shamia-akhter-tasfi-943130283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 GitHub: [tasfi21](https://github.com/tasfi21)
 
 ---
